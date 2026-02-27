@@ -11,11 +11,11 @@ function App() {
         </a>
         <a
           className="nav-cta"
-          href="https://expo.dev/go"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSclp_jLUzJJ11_Se_7jZojGwEanJTczQW4oK0eH2Wy3zEKhyw/viewform?usp=publish-editor"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get the app
+          Join the waitlist
         </a>
       </nav>
 
@@ -31,11 +31,11 @@ function App() {
         </p>
         <a
           className="cta-button"
-          href="https://expo.dev/go"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSclp_jLUzJJ11_Se_7jZojGwEanJTczQW4oK0eH2Wy3zEKhyw/viewform?usp=publish-editor"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get MainQuest
+          Join the waitlist
         </a>
       </header>
 
@@ -89,15 +89,15 @@ function App() {
       <section className="cta-section">
         <h2 className="cta-title">Ready to explore?</h2>
         <p className="cta-subtitle">
-          MainQuest is built for college students. Available on iOS with Expo Go — no App Store download required to try it.
+          Be the first to know when MainQuest launches. Join the waitlist for early access.
         </p>
         <a
           className="cta-button cta-button-large"
-          href="https://expo.dev/go"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSclp_jLUzJJ11_Se_7jZojGwEanJTczQW4oK0eH2Wy3zEKhyw/viewform?usp=publish-editor"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Get the app
+          Join the waitlist
         </a>
       </section>
 
